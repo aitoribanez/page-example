@@ -1,0 +1,4 @@
+- git clone
+- cd
+- npm install
+- npm start -> Working on http://localhost:8080
