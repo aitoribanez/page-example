@@ -1,4 +1,4 @@
-- git clone
-- cd
+- git clone https://github.com/aitoribanez/page-example
+- cd page-example
 - npm install
 - npm start -> Working on http://localhost:8080
